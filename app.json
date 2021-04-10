@@ -1,0 +1,13 @@
+{
+  "name": "VS Code Live Share Demo",
+  "description": "A simple Node.js project you can use to test out some of the VS Code Live Share extension functionality.",
+  "repository": "https://github.com/thawkin3/vs-code-live-share-demo",
+  "logo": "https://cdn.rawgit.com/heroku/node-js-getting-started/main/public/node.svg",
+  "keywords": ["node", "express", "heroku", "vs code", "live share", "pair programming"],
+  "image": "heroku/nodejs",
+  "environments": {
+    "review": {
+      "addons": ["autoidle:hobby"]
+    }
+  }
+}
